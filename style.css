@@ -84,3 +84,9 @@ body {
 .result:active{
     background-color: #342f52;
 }
+
+#select{
+    background: #fff;
+    font-size: 18px;
+    border-radius: 25px;
+}
