@@ -36,7 +36,7 @@ function convert(val, fromCurr, toCurr) {
 
 function displayRates() {
   let v1 = sel1.value;
-  let v2 = sel1.value;
+  let v2 = sel2.value;
 
   let val = convert(1, v1, v2);
   rate1.innerHTML = `1${v1} equals`;
