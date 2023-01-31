@@ -9,7 +9,7 @@ body {
   overflow: hidden;
 }
 .container {
-  background-color: #fff;
+  background-color: rgb(255, 248, 248);
   width: 470px;
   height: 360px;
   padding: 70px;
